@@ -1,0 +1,3 @@
+Master Microcontroller recieve signal from the Bluetooth Module and send it the slave microcontroller using SPI communication protocol.
+
+Slave microcontoller recieve the signal and control the actuators.
